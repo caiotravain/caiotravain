@@ -14,7 +14,6 @@ caiotravain@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiotravain&langs_count=10&hide=jupyter%20notebook,vhdl,shell,stata,verilog,mathematica,tcl&layout=compact)](https://github.com/caiotravain/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiotravain&langs_count=8)](https://github.com/caiotravain/github-readme-stats)
 <!--
 **caiotravain/caiotravain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
