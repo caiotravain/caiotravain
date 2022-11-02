@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there my name is Caio Travain! Welcome!👋
+
+I'm a enthusiastic computer engineering student at INSPER, Brazil! 
+
+🌱 I’m currently learning more in React, Django and data transmition with python!
+
+
+
+How to reach me:
+caiotravain@gmail.com
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiotravain&show_icons=true&theme=radical)
 
