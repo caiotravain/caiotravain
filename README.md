@@ -4,6 +4,7 @@ I'm a enthusiastic computer engineering student at INSPER, Brazil!
 
 🌱 I’m currently learning more in React, Django and data transmition with python!
 
+Some projects I already worked on, involved the following programing languages and frameworks:
 
 
 How to reach me:
