@@ -4,18 +4,16 @@
 </div>
 
 
-### Hi there my name is Caio Travain! Welcome!👋
+### Hi there, my name is Caio Travain! Welcome!👋
 
 I'm a enthusiastic computer engineering student at INSPER, Brazil! 
 
 🌱 I’m currently learning more in React, Django and data transmition with python!
 
-Some projects I already worked on, involved the following programing languages and frameworks:
 
 
-How to reach me: https://www.linkedin.com/in/caio-travain-6101b4226/
-### Progaming languages and frameworks:
-<div>
+##### Some projects I already worked on, involved the following programing languages and frameworks:
+<div align="center">
 <img src = "https://img.icons8.com/fluency/344/python.png"  width="50" height="50"/>
 <img src = "https://img.icons8.com/color/344/java-coffee-cup-logo--v2.png"  width="50" height="50"/>
 <img src = "https://img.icons8.com/fluency/344/javascript.png"  width="50" height="50"/>
@@ -27,6 +25,7 @@ How to reach me: https://www.linkedin.com/in/caio-travain-6101b4226/
            <img src = "https://www.django-rest-framework.org/img/logo.png"  width="100" height="50"/>
 
 </div>
+
 </br>
 </br>
 <div align="center">
@@ -38,6 +37,7 @@ How to reach me: https://www.linkedin.com/in/caio-travain-6101b4226/
 
 </div>
 
+How to reach me: https://www.linkedin.com/in/caio-travain-6101b4226/
 
 <!--
 **caiotravain/caiotravain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
