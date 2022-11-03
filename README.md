@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 ### Hi there my name is Caio Travain! Welcome!👋
 
 I'm a enthusiastic computer engineering student at INSPER, Brazil! 
