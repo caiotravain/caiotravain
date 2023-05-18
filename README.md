@@ -24,6 +24,8 @@ I'm a enthusiastic computer engineering student at INSPER, Brazil!
          <img src = "https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl"  width="50" height="50"/>
            <img src = "https://www.django-rest-framework.org/img/logo.png"  width="100" height="50"/>
  <img src = "https://img.icons8.com/?size=512&id=40670&format=png"  width="50" height="50"/>
+  <img src = "https://img.icons8.com/?size=512&id=40669&format=png"  width="50" height="50"/>
+  
 
 </div>
 
