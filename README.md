@@ -30,7 +30,7 @@ I'm a enthusiastic computer engineering student at INSPER, Brazil!
 </br>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiotravain&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiotravain&langs_count=9&hide=jupyter%20notebook,vhdl,shell,stata,verilog,mathematica,makefile,tcl&layout=compact&theme=dark)](https://github.com/caiotravain/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiotravain&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiotravain&langs_count=9&hide=jupyter%20notebook,stata,verilog,mathematica,makefile,tcl&layout=compact&theme=dark)](https://github.com/caiotravain/github-readme-stats)
   
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=caiotravain&theme=onedark&column=-1&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/caiotravain/github-profile-trophy)
