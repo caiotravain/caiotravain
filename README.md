@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.gifer.com/7qcV.gif" width="600" height="300"/>
+  <img src = "https://scitechdaily.com/images/Advanced-Computer-Chip-Concept.gif" width="600" height="300"/>
 </div>
 
 
@@ -8,7 +8,7 @@
 
 I'm a enthusiastic computer engineering student at INSPER, Brazil! 
 
-🌱 I’m currently learning more in Hardware description language and low level languages!
+🌱 I’m currently learning more in Hardware description and low level languages!
 
 
 
